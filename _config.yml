@@ -21,12 +21,12 @@ repository               : "likai-su/likai-su.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Likai Su"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "An undergradute of Southern University of Science and Technology"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology, China"
+  employer         : "SUSTech, China"
   uri              : # URL
   email            : "marcussu2002@outlook.com" 
 
