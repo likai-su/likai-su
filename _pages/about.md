@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About Likai Su"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I'm Likai Su, an undergraduate student at the Southern University of Science and Technology (SUSTech), majoring in Big Data Management and Application. My academic focus lies in data science, machine learning, and AI applications.
 
